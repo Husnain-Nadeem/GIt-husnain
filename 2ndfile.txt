@@ -1,3 +1,7 @@
+
 changing on master now this is second file
+
+changing for merge this is second file
+
 
 change by dev changing same line on master msg from dev branch
